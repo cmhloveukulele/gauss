@@ -13,3 +13,5 @@ class GaussianRational:
         return 'I'm crazy'
     def plot(self):
         return arrow((0,0), (self.x, self.y))
+    def crazy(self):
+        return "I hate this project aaaaaaaa!!!!"
